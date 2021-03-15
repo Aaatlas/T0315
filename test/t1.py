@@ -4,4 +4,4 @@ print(sys.platform)
 print('will')
 print('xxx')
 
-a=100
+a=10
